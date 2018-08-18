@@ -2,7 +2,7 @@ require('rspec')
 require('ping_pong')
 require('pry')
 
-describe('Fixnum #pingpong') do
+describe('Fixnum#pingpong') do
   it "counts from 1 to a given number" do
     expect(2.pingpong).eql?([1,2])
   end
