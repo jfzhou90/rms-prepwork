@@ -4,11 +4,11 @@ class String
     minute = split(":")[1].to_f
     hour_angle = ((hour/12)*360)+((minute/60)*(360/12))
     minute_angle = (minute/60)*360
-    difference = (hour_angle-minute_angle).abs
-    if difference > 180
-      360 - difference
+    distance = (hour_angle-minute_angle).abs
+    if distance > 180
+      360 - distance
     else
-      difference
+      distance
     end
   end
 end
