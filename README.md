@@ -19,6 +19,9 @@
      - scrabble returns score for the word entered
    - 8/19/2018 - [numbers to words](https://www.learnhowtoprogram.com/ruby/behavior-driven-development-with-ruby/scrabble-score-numbers-to-words)
      - numbers_to_words change numerals to english string
-   - 8/19/2018 - [Rock Paper Scissors](https://www.learnhowtoprogram.com/ruby/behavior-driven-development-with-ruby/rock-paper-scissors-find-and-replace-palindromes-256f40e8-012b-4841-8afb-72cc9ef5ecb6)
+   - 8/19/2018 - [rock paper scissors](https://www.learnhowtoprogram.com/ruby/behavior-driven-development-with-ruby/rock-paper-scissors-find-and-replace-palindromes-256f40e8-012b-4841-8afb-72cc9ef5ecb6)
      - rock_paper_scissors uncomment the comments to play rock paper scissors, follow the terminal instructions
+   - 8/19/2018 - [find and replace](https://www.learnhowtoprogram.com/ruby/behavior-driven-development-with-ruby/rock-paper-scissors-find-and-replace-palindromes-256f40e8-012b-4841-8afb-72cc9ef5ecb6)
+     - find_and_replace replace patterns in string to desired patterns
+     
      
