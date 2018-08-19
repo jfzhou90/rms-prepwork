@@ -1,4 +1,4 @@
-# RoleModel Software - Prepwork for Apprenticeship
+# RoleModel Academy - Prepwork
 
 1. Prepwork - Using Rspec:
    - 8/18/2018 - [title case](https://www.learnhowtoprogram.com/ruby/bdd-with-ruby/using-rspec-105266cc-fde7-452c-a155-2ea1b6fe9f8e)
@@ -23,5 +23,5 @@
      - rock_paper_scissors uncomment the comments to play rock paper scissors, follow the terminal instructions
    - 8/19/2018 - [find and replace](https://www.learnhowtoprogram.com/ruby/behavior-driven-development-with-ruby/rock-paper-scissors-find-and-replace-palindromes-256f40e8-012b-4841-8afb-72cc9ef5ecb6)
      - find_and_replace replace patterns in string to desired patterns
-     
+
      
