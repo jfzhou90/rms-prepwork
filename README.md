@@ -11,7 +11,11 @@
      - ping_pong returns a new array with any multiples of 3 replaced by 'ping', every multiples of 5 replaced by 'pong', and 'pingpong' if multiple of 3 and 5
    - 8/18/2018 - [leetspeak](https://www.learnhowtoprogram.com/ruby/behavior-driven-development-with-ruby/ping-pong-title-case-leetspeak-queen-attack-clock-angle)
      - leetspeak replaces specific character in a string, for example e with 3, o with 0, etc etc
-   - 8/18/2018 - [queen_attack](https://www.learnhowtoprogram.com/ruby/behavior-driven-development-with-ruby/ping-pong-title-case-leetspeak-queen-attack-clock-angle)
+   - 8/18/2018 - [queen attack](https://www.learnhowtoprogram.com/ruby/behavior-driven-development-with-ruby/ping-pong-title-case-leetspeak-queen-attack-clock-angle)
      - queen_attack test if the opponent is available for the queen to attack
-   - 8/18/2018 - [clock_angle](https://www.learnhowtoprogram.com/ruby/behavior-driven-development-with-ruby/ping-pong-title-case-leetspeak-queen-attack-clock-angle)
+   - 8/18/2018 - [clock angle](https://www.learnhowtoprogram.com/ruby/behavior-driven-development-with-ruby/ping-pong-title-case-leetspeak-queen-attack-clock-angle)
      - clock_angle finds the distance between the hour hand and minute hand
+   - 8/19/2018 - [scrabble](https://www.learnhowtoprogram.com/ruby/behavior-driven-development-with-ruby/scrabble-score-numbers-to-words)
+     - scrabble returns score for the word entered
+   - 8/19/2018 - [numbers to words](https://www.learnhowtoprogram.com/ruby/behavior-driven-development-with-ruby/scrabble-score-numbers-to-words)
+     - numbers_to_words change numerals to english string
