@@ -25,4 +25,6 @@
      - find_and_replace replace patterns in string to desired patterns
    - 8/19/2018 - [palindromes](https://www.learnhowtoprogram.com/ruby/behavior-driven-development-with-ruby/rock-paper-scissors-find-and-replace-palindromes-256f40e8-012b-4841-8afb-72cc9ef5ecb6)
      - palindromes returns true if a word is a palindrome, but not a letter
+   - 8/20/2018 - [coin combinations](https://www.learnhowtoprogram.com/ruby/behavior-driven-development-with-ruby/coin-combinations-prime-sifting-allergies-ruby-project-creator)
+     - coin_combinations returns the correct combinations of coins
      
