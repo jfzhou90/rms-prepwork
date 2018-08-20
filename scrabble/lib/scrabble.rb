@@ -18,9 +18,7 @@ class Word
       points.store(letter, 4)
     end
 
-    %w(K).each do |letter|
-      points.store(letter, 5)
-    end
+    points.store("K", 5)
 
     %w(J X).each do |letter|
       points.store(letter, 8)

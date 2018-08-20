@@ -16,4 +16,9 @@ describe('Word#scrabble') do
     word = Word.new("RoleModel")
     expect(word.scrabble()).to(eq(12))
   end
+
+  it('return 10 points for the word "cake"') do
+    word = Word.new("cake")
+    expect(word.scrabble()).to(eq(10))
+  end
 end
