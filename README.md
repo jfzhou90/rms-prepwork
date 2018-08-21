@@ -27,4 +27,6 @@
      - palindromes returns true if a word is a palindrome, but not a letter
    - 8/20/2018 - [coin combinations](https://www.learnhowtoprogram.com/ruby/behavior-driven-development-with-ruby/coin-combinations-prime-sifting-allergies-ruby-project-creator)
      - coin_combinations returns the correct combinations of coins
+   - 8/20/2018 - [prime sifting](https://www.learnhowtoprogram.com/ruby/behavior-driven-development-with-ruby/coin-combinations-prime-sifting-allergies-ruby-project-creator)
+     - prime_sifting returns all prime numbers up to input number
      
