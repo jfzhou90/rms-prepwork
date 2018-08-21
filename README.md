@@ -29,4 +29,6 @@
      - coin_combinations returns the correct combinations of coins
    - 8/20/2018 - [prime sifting](https://www.learnhowtoprogram.com/ruby/behavior-driven-development-with-ruby/coin-combinations-prime-sifting-allergies-ruby-project-creator)
      - prime_sifting returns all prime numbers up to input number
+   - 8/20/2018 - [allergies](https://www.learnhowtoprogram.com/ruby/behavior-driven-development-with-ruby/coin-combinations-prime-sifting-allergies-ruby-project-creator)
+     - allergies returns a list of allergies base on score.
      
