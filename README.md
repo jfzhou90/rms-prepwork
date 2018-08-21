@@ -32,3 +32,6 @@
    - 8/20/2018 - [allergies](https://www.learnhowtoprogram.com/ruby/behavior-driven-development-with-ruby/coin-combinations-prime-sifting-allergies-ruby-project-creator)
      - allergies returns a list of allergies base on score.
      
+3. Week 2 - Sinatra
+   - 8/21/2018 - [Sinatra L33tSp3ak](https://www.learnhowtoprogram.com/ruby/behavior-driven-development-with-ruby/coin-combinations-prime-sifting-allergies-ruby-project-creator)
+      - sinatra_l33tSp3ak returns string using leetspeak rules.
