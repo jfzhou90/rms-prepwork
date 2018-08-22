@@ -14,6 +14,8 @@ class MyHash
 
   def myFetch(key)
     index = hashFunction(key)
-    @myHash[index]
+    if(@myHash[index])
+      @myHash[index][1]
+    end
   end
 end
