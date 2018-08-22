@@ -1,0 +1,10 @@
+<h2> You are in room <%= @current_room %> </h2>
+
+<h5> Here are your options: </h5>
+<% @available_moves.each do |direction| %>
+<form action="/room">
+  <div class="form-group">
+    <button id="<%= direction%>" name="direction" class="form-control" type="submit" value=<%= direction %> ><%= direction %></button>
+  </div>
+<form>
+<% end %>
