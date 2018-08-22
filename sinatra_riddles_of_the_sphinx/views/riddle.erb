@@ -1,0 +1,10 @@
+<h1>Riddle #<%= @counter+1 %></h1>
+
+<form action="/riddle" method="post">
+  <div class="form-group">
+    <label for="answer"><%= @riddle %></label>
+    <input id="answer" name="answer" class="form-control" type="text">
+    <input id="counter" name="counter" class="form-control" type="hidden" value="<%= @counter %> "/>
+  </div>
+  <button type="submit" class="btn">Go!</button>
+</form>
