@@ -10,7 +10,7 @@ describe ("MyHash") do
     expect(@test_hash.myStore('joey','zhou')).to(eql(["joey",'zhou']))
   end
 
-  it('fetch a key "joey" with value 1') do
+  it('fetch a key "test" with value "true"') do
     @test_hash.myStore('test',"true")
     expect(@test_hash.myFetch('test')).to(eql("true"))
   end
