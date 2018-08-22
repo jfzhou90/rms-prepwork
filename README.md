@@ -40,4 +40,4 @@
    - 8/21/2018 - [Sinatra Parcels](https://www.learnhowtoprogram.com/ruby/sinatra-dc4acb00-63fe-40dd-8fe1-4ad170c25c01/triangles-parcels-diy-hash)
      - sinatra_parcels returns the cost of shipping
    - 8/21/2018 - [MyHash](https://www.learnhowtoprogram.com/ruby/sinatra-dc4acb00-63fe-40dd-8fe1-4ad170c25c01/triangles-parcels-diy-hash)
-     - MyHash allow user to store and fetch key-value pairs
+     - MyHash allow user to store and fetch key-value pairs 
