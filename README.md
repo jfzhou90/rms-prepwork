@@ -41,3 +41,7 @@
      - sinatra_parcels returns the cost of shipping
    - 8/21/2018 - [MyHash](https://www.learnhowtoprogram.com/ruby/sinatra-dc4acb00-63fe-40dd-8fe1-4ad170c25c01/triangles-parcels-diy-hash)
      - MyHash allow user to store and fetch key-value pairs 
+   - 8/22/2018 - [Riddles of the Sphinx](https://www.learnhowtoprogram.com/ruby/sinatra-dc4acb00-63fe-40dd-8fe1-4ad170c25c01/triangles-parcels-diy-hash)
+     - riddles question and answer game
+   - 8/22/2018 - [Maze](https://www.learnhowtoprogram.com/ruby/sinatra-dc4acb00-63fe-40dd-8fe1-4ad170c25c01/triangles-parcels-diy-hash)
+     - maze allows user to play a maze game
