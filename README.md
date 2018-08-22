@@ -30,8 +30,12 @@
    - 8/20/2018 - [prime sifting](https://www.learnhowtoprogram.com/ruby/behavior-driven-development-with-ruby/coin-combinations-prime-sifting-allergies-ruby-project-creator)
      - prime_sifting returns all prime numbers up to input number
    - 8/20/2018 - [allergies](https://www.learnhowtoprogram.com/ruby/behavior-driven-development-with-ruby/coin-combinations-prime-sifting-allergies-ruby-project-creator)
-     - allergies returns a list of allergies base on score.
+     - allergies returns a list of allergies base on score
      
 3. Week 2 - Sinatra
-   - 8/21/2018 - [Sinatra L33tSp3ak](https://www.learnhowtoprogram.com/ruby/behavior-driven-development-with-ruby/coin-combinations-prime-sifting-allergies-ruby-project-creator)
-      - sinatra_l33tSp3ak returns string using leetspeak rules.
+   - 8/21/2018 - [Sinatra L33tSp3ak](https://www.learnhowtoprogram.com/ruby/sinatra-dc4acb00-63fe-40dd-8fe1-4ad170c25c01/triangles-parcels-diy-hash)
+     - sinatra_l33tSp3ak returns string using leetspeak rules
+   - 8/21/2018 - [Sinatra Triangle Type](https://www.learnhowtoprogram.com/ruby/sinatra-dc4acb00-63fe-40dd-8fe1-4ad170c25c01/triangles-parcels-diy-hash)
+     - sinatra_triangle_type returns the type of triangle
+   - 8/21/2018 - [Sinatra Parcels](https://www.learnhowtoprogram.com/ruby/sinatra-dc4acb00-63fe-40dd-8fe1-4ad170c25c01/triangles-parcels-diy-hash)
+     - sinatra_parcels returns the cost of shipping
