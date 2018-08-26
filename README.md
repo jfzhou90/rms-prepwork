@@ -45,3 +45,5 @@
      - riddles question and answer game
    - 8/22/2018 - [Maze](https://www.learnhowtoprogram.com/ruby/sinatra-dc4acb00-63fe-40dd-8fe1-4ad170c25c01/triangles-parcels-diy-hash)
      - maze allows user to play a maze game
+
+4. Koans 8/22/2018 - http://rubykoans.com/ (completed on 8/26/2018, excluding about_java_interop)
