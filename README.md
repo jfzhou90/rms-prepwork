@@ -50,6 +50,8 @@
    - 8/28/2018 - [Tamagochi](https://www.learnhowtoprogram.com/ruby/sinatra-dc4acb00-63fe-40dd-8fe1-4ad170c25c01/favorite-things-places-you-ve-been-tamagotchi)
      - tamagochi a digital pet game
    - 8/28/2018 - [Music Organizer](https://www.learnhowtoprogram.com/ruby/sinatra-dc4acb00-63fe-40dd-8fe1-4ad170c25c01/contacts-music-organizer-hangman)
-     - music_organize allows user to view artists and their albums
+     - music_organizer allows user to view artists and their albums
+   - 8/28/2018 - [Hangman](https://www.learnhowtoprogram.com/ruby/sinatra-dc4acb00-63fe-40dd-8fe1-4ad170c25c01/contacts-music-organizer-hangman)
+     - hangman allows user to play hangman
 
 4. Koans 8/22/2018 - http://rubykoans.com/ (completed on 8/26/2018, excluding about_java_interop)
