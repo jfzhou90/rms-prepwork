@@ -1,0 +1,10 @@
+<h1><%= @artist.name %></h1>
+</br>
+
+<h3>Genre: <%= @artist.genre %><h3>
+</br>
+
+<% @artist.albums.map do |album| %>
+  <img src="<%= album.image_url %>" alt="<%= album.title %>"/>
+  <h3> Title: <%= album.title %> </h3>
+<% end %>

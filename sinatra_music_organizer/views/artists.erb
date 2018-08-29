@@ -1,0 +1,7 @@
+<h1>Artist List</h1>
+
+<% @artists.map do |artist| %>
+  <a href="/artists/<%= artist.id%>">
+    <%= artist.name %>
+  </a>
+<% end %>
