@@ -9,17 +9,16 @@ get('/') do
 end
 
 post('/') do
-  game = Game.find_by_id(params.fetch('id'))
-  game.guess(params.fetch('guess'))
-  if game.dead?
+  @game = Game.find_by_id(params.fetch('id'))
+  @game.guess(params.fetch('guess'))
+  if @game.dead?
     @string = "You're dead"
-    @word = game.word
+    @word = @game.word
     return erb(:result)
   end
-  if game.win?
+  if @game.win?
     @string = "You survived"
     return erb(:result)
   end
-  @game = game
   erb(:game)
 end
