@@ -31,7 +31,7 @@
      - prime_sifting returns all prime numbers up to input number
    - 8/20/2018 - [allergies](https://www.learnhowtoprogram.com/ruby/behavior-driven-development-with-ruby/coin-combinations-prime-sifting-allergies-ruby-project-creator)
      - allergies returns a list of allergies base on score
-     
+
 3. Week 2 - Sinatra
    - 8/21/2018 - [Sinatra L33tSp3ak](https://www.learnhowtoprogram.com/ruby/sinatra-dc4acb00-63fe-40dd-8fe1-4ad170c25c01/triangles-parcels-diy-hash)
      - sinatra_l33tSp3ak returns string using leetspeak rules
@@ -40,10 +40,16 @@
    - 8/21/2018 - [Sinatra Parcels](https://www.learnhowtoprogram.com/ruby/sinatra-dc4acb00-63fe-40dd-8fe1-4ad170c25c01/triangles-parcels-diy-hash)
      - sinatra_parcels returns the cost of shipping
    - 8/21/2018 - [MyHash](https://www.learnhowtoprogram.com/ruby/sinatra-dc4acb00-63fe-40dd-8fe1-4ad170c25c01/triangles-parcels-diy-hash)
-     - MyHash allow user to store and fetch key-value pairs 
-   - 8/22/2018 - [Riddles of the Sphinx](https://www.learnhowtoprogram.com/ruby/sinatra-dc4acb00-63fe-40dd-8fe1-4ad170c25c01/triangles-parcels-diy-hash)
+     - MyHash allow user to store and fetch key-value pairs
+   - 8/22/2018 - [Riddles of the Sphinx](https://www.learnhowtoprogram.com/ruby/sinatra-dc4acb00-63fe-40dd-8fe1-4ad170c25c01/project-refactor-riddles-of-the-sphinx-maze)
      - riddles question and answer game
-   - 8/22/2018 - [Maze](https://www.learnhowtoprogram.com/ruby/sinatra-dc4acb00-63fe-40dd-8fe1-4ad170c25c01/triangles-parcels-diy-hash)
+   - 8/22/2018 - [Maze](https://www.learnhowtoprogram.com/ruby/sinatra-dc4acb00-63fe-40dd-8fe1-4ad170c25c01/project-refactor-riddles-of-the-sphinx-maze)
      - maze allows user to play a maze game
+   - 8/28/2018 - [Favorite Things](https://www.learnhowtoprogram.com/ruby/sinatra-dc4acb00-63fe-40dd-8fe1-4ad170c25c01/favorite-things-places-you-ve-been-tamagotchi)
+     - favorite_things allow user to add their favorites based on ranking
+   - 8/28/2018 - [Tamagochi](https://www.learnhowtoprogram.com/ruby/sinatra-dc4acb00-63fe-40dd-8fe1-4ad170c25c01/favorite-things-places-you-ve-been-tamagotchi)
+     - tamagochi a digital pet game
+   - 8/28/2018 - [Music Organizer](https://www.learnhowtoprogram.com/ruby/sinatra-dc4acb00-63fe-40dd-8fe1-4ad170c25c01/contacts-music-organizer-hangman)
+     - music_organize allows user to view artists and their albums
 
 4. Koans 8/22/2018 - http://rubykoans.com/ (completed on 8/26/2018, excluding about_java_interop)
