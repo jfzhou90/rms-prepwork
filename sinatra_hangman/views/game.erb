@@ -1,0 +1,18 @@
+<h1> Hangman! </h1>
+</br>
+<h3>Tries Left: <%= @game.tries %> </h3>
+</br>
+<h3>Current Status:
+  <% @game.current_word_status.chars.map do |letter| %>
+    <span><%= letter %> </span>
+  <% end %>
+</h3>
+</br>
+<form class="form" action="/" method="post">
+  <div class="form-group">
+    <label for="guess">Guess:</label>
+    <input class="form-control" type="text" name="guess" value="">
+    <input class="form-control" type="hidden" name="id" value="<%= @game.id %>">
+  </div>
+  <button class="btn btn-primary" type="submit">Guess</button>
+</form>
